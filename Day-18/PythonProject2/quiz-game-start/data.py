@@ -1,0 +1,22 @@
+question_data = [
+    {"text": "Python is a programming language.", "answer": "True"},
+    {"text": "The capital of Australia is Sydney.", "answer": "False"},
+    {"text": "The Earth revolves around the Sun.", "answer": "True"},
+    {"text": "HTML is a programming language.", "answer": "False"},
+    {"text": "The Pacific Ocean is the largest ocean on Earth.", "answer": "True"},
+    {"text": "Light travels slower than sound.", "answer": "False"},
+    {"text": "Mount Everest is the tallest mountain above sea level.", "answer": "True"},
+    {"text": "The human body has 300 bones in adulthood.", "answer": "False"},
+    {"text": "Java and JavaScript are the same language.", "answer": "False"},
+    {"text": "Water freezes at 0 degrees Celsius.", "answer": "True"},
+    {"text": "The Great Wall of China is visible from space with the naked eye.", "answer": "False"},
+    {"text": "An octopus has three hearts.", "answer": "True"},
+    {"text": "The speed of light is faster than the speed of sound.", "answer": "True"},
+    {"text": "The chemical symbol for Gold is Ag.", "answer": "False"},
+    {"text": "Sharks are mammals.", "answer": "False"},
+    {"text": "Venus is the hottest planet in our solar system.", "answer": "True"},
+    {"text": "The square root of 64 is 8.", "answer": "True"},
+    {"text": "Penguins can fly.", "answer": "False"},
+    {"text": "Bananas are berries.", "answer": "True"},
+    {"text": "The currency of Japan is the Yen.", "answer": "True"}
+]
